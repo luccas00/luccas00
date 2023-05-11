@@ -10,7 +10,7 @@
 
 </br>
 
-## 🛠 Tools:
+## 🛠 Skills:
 
 ### I have experience
 
