@@ -1,6 +1,6 @@
 # Hi there, I'm Luccas :wave:
 
-## I'm a Power Platform and Dynamics 365 Developer and a Student!!
+## I'm a Power Platform & Dynamics 365 Developer and a Student!!
 
 🔭 I'm focused on improving my skills.
 🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, JavaScript, HTML and CSS.
