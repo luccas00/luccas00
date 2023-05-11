@@ -39,6 +39,7 @@
 </div>
 
 </br>
+
 ## Connect with me: :iphone:
 
 <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
