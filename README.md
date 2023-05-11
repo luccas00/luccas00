@@ -1,12 +1,12 @@
 # Hi there, I'm Luccas :wave:
 
-## I'm a Power Platform & Dynamics 365 Developer and a Student!!
+## I'm a Power Platform and Dynamics 365 Developer and a Student!!
 
-🔭 I'm focused on improving my skills.
-🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, JavaScript, HTML and CSS.
-💻 I'm currently working at Smart Consulting as an intern developer.
-🎓 I'm graduating in Information Systems at UFOP (Universidade Federal de Ouro Preto - Brazil).
-⚡ Fun fact: I love watching movies and playing the guitar.
+- 🔭 I'm focused on improving my skills.
+- 🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, JavaScript, HTML and CSS.
+- :computer: I'm currently working at Smart Consulting as an intern developer.
+- :school: I'm graduating in Information Systems at UFOP (Universidade Federal de Ouro Preto - Brazil).
+- ⚡ Fun fact: I love watching movies and playing the guitar.
 
 </br>
 
