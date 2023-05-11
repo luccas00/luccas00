@@ -16,6 +16,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,java,git,github)](https://skillicons.dev)
 
+### I'm familiar with
+
+<a>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank">
+</a>
+
 </br>
 
 ## Connect with me: :iphone:
