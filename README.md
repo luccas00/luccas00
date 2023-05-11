@@ -9,6 +9,14 @@
 - ⚡ Fun fact: I love watching movies and playing the guitar.
 
 </br>
+<div>
+  <a href="https://github.com/luccas00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/luccas00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 ## 🛠 Skills:
 
@@ -18,6 +26,7 @@
 
 ### I'm familiar with
 
+<div>
 <a>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank">
 </a>
@@ -27,9 +36,9 @@
 <a>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank">
 </a>
+</div>
 
 </br>
-
 ## Connect with me: :iphone:
 
 <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
