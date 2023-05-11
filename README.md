@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Luccas :wave:
 
-<!--
-**luccas00/luccas00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Power Platform and Dynamics 365 Developer and a Student!!
 
-Here are some ideas to get you started:
+🔭 I'm focused on improving my skills.
+🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, JavaScript, HTML and CSS.
+💻 I'm currently working at Smart Consulting as an intern developer.
+🎓 I'm graduating in Information Systems at UFOP (Universidade Federal de Ouro Preto - Brazil).
+⚡ Fun fact: I love watching movies and playing the guitar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+## 🛠 Tools:
+
+### I have experience
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,js,java,git,github)](https://skillicons.dev)
+
+</br>
+
+## Connect with me: :iphone:
+
+<a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:luccas.carneiro@aluno.ufop.edu.br">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://instagram.com/luccascarneiro/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
