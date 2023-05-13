@@ -10,11 +10,11 @@
 
 </br>
 <div style="display: flex;">
-  <a href="https://github.com/luccas00">
-    <img style="height: 50%; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight&card_width=300"/>
+  <a href="https://github.com/luccas00" style="height: 100%; width: 100%;">
+    <img style="height: 100%; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight&card_width=300"/>
   </a>
-  <a href="https://github.com/luccas00">
-    <img style="height: 50%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/luccas00" style="height: 100%; width: 100%;">
+    <img style="height: 100%; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
