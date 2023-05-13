@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love watching movies and playing the guitar.
 
 </br>
-<div>
+<div style="display: flex;">
   <a href="https://github.com/luccas00">
     <img style="height: 180px; width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight&card_width=300"/>
   </a>
