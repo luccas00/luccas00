@@ -18,7 +18,9 @@
   </a>
 </div>
 <div>
-    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luccas00)](https://github.com/anuraghazra/github-readme-stats)  
+  <a href="https://github.com/luccas00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=luccas00"/>
+  </a>
 </div>
 
 ## 🛠 Skills:
