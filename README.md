@@ -17,6 +17,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+<div>
+    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luccas00)](https://github.com/anuraghazra/github-readme-stats)  
+</div>
 
 ## 🛠 Skills:
 
