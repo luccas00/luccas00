@@ -31,9 +31,6 @@
 <a>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank">
 </a>
-  <a>
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
-</a>
 <a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
 </a>
@@ -48,6 +45,11 @@
 <a>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white" target="_blank">
 </a>
+</div>
+<div>
+  <a>
+  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
+  </a>
 </div>
 
 </br>
