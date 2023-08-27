@@ -50,6 +50,9 @@
   <a>
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
   </a>
+  <a>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank">
+  </a>
 </div>
 
 </br>
