@@ -23,7 +23,7 @@
 
 ### I have experience
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,js,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,c,cs,java,js,html,css,git,github,azure)](https://skillicons.dev)
 
 ### I'm familiar with
 
@@ -34,6 +34,10 @@
 <a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
 </a>
+<a>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" target="_blank">
+</a>
+  
 </div>
 <div>
 <a>
