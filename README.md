@@ -3,7 +3,7 @@
 ## I'm a Power Platform & Dynamics 365 Developer and a Student!!
 
 - 🔭 I'm focused on improving my skills.
-- 🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, .NET Core and .Net Framework, Microsoft SQL Server, serviços Azure services and a little of front end development.
+- 🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, .NET Core and .Net Framework, Microsoft SQL Server, Azure services and a little of front end development.
 - :computer: I'm currently working at Smart Consulting as an intern developer.
 - :school: I'm graduating in Information Systems at UFOP (Universidade Federal de Ouro Preto - Brazil).
 - ⚡ Fun fact: I love watching movies and playing the guitar.
