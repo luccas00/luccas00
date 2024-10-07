@@ -1,12 +1,16 @@
-# Hi there, I'm Luccas :wave:
+# Hello there, I'm Luccas :wave:
 
 ## I'm a Power Platform & Dynamics 365 Developer and a Student!!
 
-- 🔭 I'm focused on improving my skills.
-- 🌱 I'm currently learning about Microsoft Power Platform, Dynamics 365, .NET Core and .Net Framework, Microsoft SQL Server, Azure services and a little of front end development.
-- :computer: I'm currently working at Smart Consulting as an intern developer.
-- :school: I'm graduating in Information Systems at UFOP (Universidade Federal de Ouro Preto - Brazil).
-- ⚡ Fun fact: I love watching movies and playing the guitar.
+- Mid-Level Developer | Specialist in Power Platform and Dynamics 365 | Focused on Business Solutions
+
+🔭 Committed to continuously improving my development skills and problem-solving abilities, aiming to deliver efficient technological solutions.
+
+🌱 Enhancing my knowledge in Microsoft Power Platform, Dynamics 365, .NET, ASP.NET MVC, Node.js, Microsoft SQL Server, and Azure to deliver integrated and scalable solutions.
+
+💻 At Smart Consulting, I contribute to improving the efficiency and quality of our clients' projects. I have experience in adapting and configuring Dynamics 365 business applications, with a focus on Project Operations (project and finance operations), Customer Service (customer support), and Dynamics 365 Sales.
+
+🏫 Pursuing a Bachelor's degree in Information Systems at UFOP (Federal University of Ouro Preto).
 
 </br>
 
