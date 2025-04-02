@@ -2,7 +2,7 @@
 
 ## I'm a Power Platform & Dynamics 365 Developer and a Student!!
 
-- Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant [PL-200] | Business Solutions Expert
+Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant [PL-200] | Business Solutions Expert
 
 🔭 Committed to continuously improving my development skills and problem-solving abilities, aiming to deliver efficient technological solutions.
 
