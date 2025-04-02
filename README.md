@@ -2,7 +2,7 @@
 
 ## I'm a Power Platform & Dynamics 365 Developer and a Student!!
 
-- Mid-Level Developer | Specialist in Power Platform and Dynamics 365 | Focused on Business Solutions
+- Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant [PL-200] | Business Solutions Expert
 
 🔭 Committed to continuously improving my development skills and problem-solving abilities, aiming to deliver efficient technological solutions.
 
@@ -10,7 +10,7 @@
 
 💻 At Smart Consulting, I contribute to improving the efficiency and quality of our clients' projects. I have experience in adapting and configuring Dynamics 365 business applications, with a focus on Project Operations (project and finance operations), Customer Service (customer support), and Dynamics 365 Sales.
 
-🏫 Pursuing a Bachelor's degree in Information Systems at UFOP (Federal University of Ouro Preto).
+🏫 Pursuing a Bachelor's degree in Information Systems at UFOP (Federal University of Ouro Preto)
 
 </br>
 
