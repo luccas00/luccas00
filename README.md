@@ -12,8 +12,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 🏫 Pursuing a Bachelor's degree in Information Systems at UFOP (Federal University of Ouro Preto)
 
-</br>
-
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/luccas00">
@@ -25,7 +23,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
          src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-
 
 
 ## 🛠 Skills
