@@ -1,4 +1,4 @@
-name: Snake animation
+name: SnakeAnimation
 
 on:
   # run automatically every 12 hours
