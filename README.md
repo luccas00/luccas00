@@ -97,9 +97,17 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 </a>
 
 ## 🚀 Highlighted Repositories
-[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Chat_TCP)](https://github.com/luccas00/Chat_TCP)
-[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Investments)](https://github.com/luccas00/Investments)
-[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Web_II)](https://github.com/luccas00/WEB_II)
+<p align="center">
+  <a href="https://github.com/luccas00">
+	[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Chat_TCP)](https://github.com/luccas00/Chat_TCP)
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luccas00">
+  	[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Investments)](https://github.com/luccas00/Investments)
+  </a>
+  <a href="https://github.com/luccas00">
+  	[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Web_II)](https://github.com/luccas00/WEB_II)
+  </a>
+</p>
 
 
 
