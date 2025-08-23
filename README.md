@@ -59,14 +59,15 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white" target="_blank">
 </a>
 <a>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white" target="_blank">
+</a>
+<a>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white" target="_blank">
 </a>
 <a>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white" target="_blank">
 </a>
-<a>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white" target="_blank">
-</a>
+
 </div>
 
 <div>
