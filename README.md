@@ -86,4 +86,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 ## 🛠️ My Projects
 [![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&repo=Chat_TCP)](https://github.com/luccas00/Chat_TCP)
+[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&repo=Investments)](https://github.com/luccas00/Investments)
+[![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&repo=Web_II)](https://github.com/luccas00/WEB_II)
 
