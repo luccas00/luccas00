@@ -38,6 +38,12 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 <div>
 <a>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" target="_blank">
+</a>
+<a>
+  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" target="_blank">
+</a>
+<a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
 </a>
 <a>
@@ -55,10 +61,23 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 <a>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white" target="_blank">
 </a>
+<a>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white" target="_blank">
+</a>
 </div>
+
 <div>
   <a>
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" target="_blank">
   </a>
   <a>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank">
