@@ -65,7 +65,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white" target="_blank">
 </a>
 <a>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white" target="_blank">
 </a>
 
 </div>
