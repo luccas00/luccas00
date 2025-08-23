@@ -87,7 +87,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 </br>
 
-<br/>
 
 ## :iphone: Connect with me
 <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
