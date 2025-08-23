@@ -105,8 +105,10 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 
 ### Github Stats:
-
 | <img width="450em" align="center" alt="Github Stats"  src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> | <img  width="450em" src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=VikashPR&theme=vue-dark" alt="VikashPR Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=vue-dark" />   |
+
 
 <!-- <h4 align="center">My contribution graph</h4>
 <p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
