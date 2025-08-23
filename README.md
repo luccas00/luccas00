@@ -14,18 +14,27 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 </br>
 
-## 📊 Github Stats
-<img src = 'https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_30.gif' alt = 'Awesome Matrix Code' align='right'/>
-<img src = 'https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_30.gif' alt = 'Awesome Matrix Code' align='center'/>
-<img src = 'https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_30.gif' alt = 'Awesome Matrix Code' align='left'/>
+<!-- Bloco com GIF de fundo + stats sobrepostos -->
+<div style="position:relative;width:100%;height:240px;overflow:hidden;border-radius:8px;">
+  <!-- Fundo (GIF) -->
+  <img src="https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_35.gif"
+       alt="Matrix BG"
+       style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.35;filter:contrast(110%);">
 
-<div>
-  <a href="https://github.com/luccas00">
-    <img height="180em" src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/luccas00">
-    <img height="180em" src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+  <!-- Conteúdo em primeiro plano -->
+  <div style="position:relative;z-index:1;height:100%;
+              display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href="https://github.com/luccas00">
+      <img height="180"
+           src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight"
+           alt="Top Langs"/>
+    </a>
+    <a href="https://github.com/luccas00">
+      <img height="180"
+           src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+           alt="Stats"/>
+    </a>
+  </div>
 </div>
 
 ## 🛠 Skills:
