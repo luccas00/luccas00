@@ -122,5 +122,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
+
 <br/>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.&author=Wise%20man" /> </p>
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Do.%20Or%20do%20Not.%20There%20is%20no%20Try...&author=Yoda" /> </p>
