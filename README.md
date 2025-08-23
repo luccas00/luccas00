@@ -14,6 +14,11 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 </br>
 
+## 📊 Github Stats
+<img src = 'https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_30.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_30.gif' alt = 'Awesome Matrix Code' align='center'/>
+<img src = 'https://github.com/luccas00/luccas00/blob/main/src/matrix_slow_30.gif' alt = 'Awesome Matrix Code' align='left'/>
+
 <div>
   <a href="https://github.com/luccas00">
     <img height="180em" src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=10&theme=tokyonight"/>
