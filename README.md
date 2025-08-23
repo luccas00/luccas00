@@ -100,13 +100,13 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 <p align="center">
   <a href="https://github.com/luccas00/Chat_TCP">
     <img src="https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Chat_TCP" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/luccas00/Investments">
     <img src="https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Investments" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/luccas00/WEB_II">
     <img src="https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Web_II" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/luccas00/luccas00">
     <img src="https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=luccas00" />
   </a>
