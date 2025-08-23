@@ -14,14 +14,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 </br>
 
-<!-- Container: GIF como base; stats sobrepostos -->
-<div style="position:relative; width:100%; max-width:100%; overflow:hidden; border-radius:8px;">
-
-  <!-- Base (GIF). Usa a altura do próprio GIF -->
-  <img src="https://raw.githubusercontent.com/luccas00/luccas00/main/src/matrix_slow_35.gif"
-       alt="Matrix BG"
-       style="width:100%; height:auto; display:block; opacity:.35;">
-
+## 📊 Github Stats
   <!-- Camada superior (stats) ocupando toda a área do GIF -->
   <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center; gap:16px; flex-wrap:wrap; padding:8px;">
     <a href="https://github.com/luccas00">
@@ -33,7 +26,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
            src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
   </div>
-</div>
 
 
 ## 🛠 Skills:
@@ -84,7 +76,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-## 🛠️ My Projects
+## 🛠️ My Repositories
 [![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Chat_TCP)](https://github.com/luccas00/Chat_TCP)
 [![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Investments)](https://github.com/luccas00/Investments)
 [![Readme Card](https://github-readme-stats-luccas00s-projects.vercel.app/api/pin/?username=luccas00&theme=tokyonight&repo=Web_II)](https://github.com/luccas00/WEB_II)
