@@ -28,7 +28,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 
 
-## 🛠 Skills:
+## 🛠 Skills
 
 ### I have experience
 
@@ -87,8 +87,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 </br>
 
-## Connect with me: :iphone:
-
+## :iphone: Connect with me
 <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
@@ -112,10 +111,10 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   </a>
 </p>
 
+
+## 🚀 Contributions
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 <p align="center"> <img  width="900em" src="https://github.com/luccas00/luccas00/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
-
-<h4 align="center">Isometric view of contributions in the last year.</h4>
 	  
 <p align="center">
 	<a href="https://github.com/luccas00">
