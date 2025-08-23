@@ -87,6 +87,8 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 </br>
 
+<br/>
+
 ## :iphone: Connect with me
 <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -94,6 +96,13 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 <a href = "mailto:luccas.carneiro@aluno.ufop.edu.br">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+
+
+<br/>
+
+
+<br/>
+
 
 ## 🚀 Highlighted Repositories
 <p align="center">
@@ -113,7 +122,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 
 ## 🤝 Contributions
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 <p align="center"> <img  width="900em" src="https://github.com/luccas00/luccas00/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
 	  
 <p align="center">
