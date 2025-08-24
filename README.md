@@ -1,6 +1,6 @@
 # Hello there, I'm Luccas :wave:
 
-## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer and a Student!!
+## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
 
 Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant [PL-200] | Business Solutions Expert
 
