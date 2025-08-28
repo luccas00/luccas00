@@ -28,13 +28,14 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 ## 🛠 Skills
 
 ### I have experience
-
+<p class="center">
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,azure)](https://skillicons.dev)
+</p>
 
 ### I'm familiar with
 
 <div>
-
+<p class="center">
 <a>
   <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" target="_blank">
 </a>
@@ -53,7 +54,8 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 <a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" target="_blank">
 </a>
-
+</p>
+	
 </div>
 <div>
 <a>
