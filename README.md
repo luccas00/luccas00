@@ -32,7 +32,20 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,azure)](https://skillicons.dev)
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,html,git,azure" alt="Skills" />
+</p>
+
+
 ### I'm familiar with
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
+</p>
 
 <div>
 <p class="center">
