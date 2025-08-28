@@ -34,6 +34,16 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 ### I'm familiar with
 
 <div>
+
+<a>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" target="_blank">
+</a>
+<a>
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" target="_blank">
+</a>
+<a>
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" target="_blank">
+</a>
 <a>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" target="_blank">
 </a>
@@ -43,10 +53,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 <a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" target="_blank">
 </a>
-<a>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" target="_blank">
-</a>
-  
+
 </div>
 <div>
 <a>
@@ -80,12 +87,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <a>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank">
   </a>
-  <a>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" target="_blank">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" target="_blank">
-  </a>
+
 </div>
 
 </br>
