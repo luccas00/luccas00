@@ -29,7 +29,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 ### I have experience
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,github,azure,docker,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,azure)](https://skillicons.dev)
 
 ### I'm familiar with
 
@@ -79,6 +79,12 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   </a>
   <a>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" target="_blank">
   </a>
 </div>
 
