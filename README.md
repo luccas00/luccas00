@@ -42,7 +42,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white"/>
@@ -50,7 +49,6 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
