@@ -28,12 +28,8 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 ## 🛠 Skills
 
 ### I have experience
-<p class="center">
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,azure)](https://skillicons.dev)
-</p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,html,git,azure" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,azure" alt="Skills" />
 </p>
 
 
@@ -47,69 +43,22 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
-<div>
-<p class="center">
-<a>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" target="_blank">
-</a>
-<a>
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" target="_blank">
-</a>
-<a>
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" target="_blank">
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white"/>
 </p>
-	
-</div>
-<div>
-<a>
-  <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white" target="_blank">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white" target="_blank">
-</a>
 
-</div>
-
-<div>
-  <a>
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" target="_blank">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" target="_blank">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" target="_blank">
-  </a>
-  <a>
-  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" target="_blank">
-  </a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white"/>
+</p>
 
 </br>
 
