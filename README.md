@@ -85,7 +85,13 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" target="_blank">
   </a>
   <a>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" target="_blank">
   </a>
 
 </div>
