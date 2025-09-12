@@ -64,13 +64,52 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 <a href = "mailto:luccas.carneiro@aluno.ufop.edu.br">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
+<a href = "mailto:luccas.carneiro@hotmail.com">
+  <img alt="Outlook" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/microsoft-outlook-icon.png" width="24" height="24" target="_blank"/>
+</a>
+<a href = "https://youtube.com/@luccascarneiro365?si=sIMaCoUHSW04bDGC">
+  <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank">
+</a>
+<a href = "https://www.youtube.com/@Eldarion_I/posts">
+  <img src="https://img.shields.io/badge/YouTube%20Gaming-FF0000.svg?style=for-the-badge&logo=YouTube-Gaming&logoColor=white" target="_blank">
+</a>
+<a href = "https://www.twitch.tv/eldarion_i">
+  <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank">
+</a>
+<a href = "https://discord.gg/wFfuxKAgDP">
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" target="_blank">
+</a>
 
 <br/>
-
-
 <br/>
 
+## :iphone: Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:luccas.carneiro@aluno.ufop.edu.br">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="mailto:luccas.carneiro@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@luccascarneiro365?si=sIMaCoUHSW04bDGC">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@Eldarion_I/posts">
+    <img src="https://img.shields.io/badge/YouTube%20Gaming-FF0000.svg?style=for-the-badge&logo=YouTube-Gaming&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/eldarion_i">
+    <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+  </a>
+  <a href="https://discord.gg/wFfuxKAgDP">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
+  </a>
+</p>
+
+<br/>
+<br/>
 
 ## 🚀 Highlighted Repositories
 <p align="center">
