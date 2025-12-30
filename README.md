@@ -29,7 +29,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 
 ### I have experience
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,swift,c,cs,java,js,css,html,git,azure" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,css,html,git,azure" alt="Skills" />
 </p>
 
 
