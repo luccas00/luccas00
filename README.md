@@ -37,7 +37,9 @@ src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?us
 <img
 src="https://streak-stats.demolab.com?user=luccas00&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&mode=weekly"/>
+<img src="[https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&mode=weekly](https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&mode=weekly)"/>
+
+<img src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&hide_border=true&mode=weekly"/>
 
 
 <img
