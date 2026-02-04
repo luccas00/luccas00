@@ -1,5 +1,6 @@
-#Hello there, I'm Luccas 👋
-👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer
+<h1>Hello there, I'm Luccas 👋</h1>
+
+<h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
