@@ -35,30 +35,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 </div>
 
-
-## 🛠 Skills
-
-### I have experience
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,css,html,git,azure,dotnet,spring,nodejs,postman,docker" alt="Skills" />
-</p>
-
-
-### I'm familiar with
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-</p>
-
-</br>
-
 ## 🛠 Skills
 
 ### I have experience
@@ -66,12 +42,10 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html" />
 </p>
-
 <!-- Frameworks / Platforms / Tools -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,azure,vscode,visualstudio,idea,git,postman,docker" />
 </p>
-
 
 ### I'm familiar with
 <p align="center">
@@ -88,7 +62,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
-
+<br/>
 
 ## :iphone: Connect with me
 <p align="center">
