@@ -2,32 +2,21 @@
 ##👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer
 
 <table align="center" role="presentation" cellpadding="0" cellspacing="0"
-       style="border:none !important; border-collapse:collapse !important;">
-  <tr style="border:none !important;">
-    <td style="border:none !important; vertical-align:middle; padding:0 12px 0 0;">
+       style="border-collapse:collapse; border:none;">
+  <tr>
+    <td style="border:none; vertical-align:middle; padding-right:12px;">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
         <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-             width="64" alt="Microsoft Certified Associate Badge" />
+             width="64" alt="Microsoft Certified Associate Badge"/>
       </a>
     </td>
-    <td style="border:none !important; vertical-align:middle; padding:0;">
+    <td style="border:none; vertical-align:middle;">
       <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
       Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-         width="64" alt="Microsoft Certified Associate Badge" align="middle" />
-  </a>
-  &nbsp;&nbsp;
-  <span>
-    <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
-    Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
-  </span>
-</p>
 
 <div align="center">
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
