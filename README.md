@@ -1,25 +1,21 @@
-# Hello there, I'm Luccas :wave:
-## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
-Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
+<h1>Hello there, I'm Luccas 👋</h1>
 
-Building scalable business solutions using .NET, Azure and modern web technologies.
+<h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
 
-<br/>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td style="vertical-align: middle; padding-right: 12px;">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-        <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="64"/>
+        <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+             width="64"/>
       </a>
     </td>
-    <td>
+    <td style="vertical-align: middle;">
       <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
       Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
     </td>
   </tr>
 </table>
-<br/>
-
 
 ### Tech Stack
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
