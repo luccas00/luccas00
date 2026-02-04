@@ -1,14 +1,10 @@
 # Hello there, I'm Luccas :wave:
-<h1 align="left">👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!</h1>
+## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
 
 Building scalable business solutions using .NET, Azure and modern web technologies.
 
 ---
-
-
-# Hello there, I'm Luccas :wave:
-## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr border="0">
