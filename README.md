@@ -15,6 +15,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20Ideas%20Into%20Solutions;Creating%20Smart%20Solutions;Always%20Learning;Driven%20By%20Challenges&font=Fira%20Code&center=true&width=520&height=45">
   </a>
 </p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/luccas00">
