@@ -40,15 +40,13 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ### I have experience
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,css,html,git,azure,dotnet,spring,nodejs" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,css,html,git,azure,dotnet,spring,nodejs,postman,docker" alt="Skills" />
 </p>
 
 
 ### I'm familiar with
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/><br/>
@@ -63,7 +61,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ## 🛠 Skills
 
-### 💻 Languages
+### 👨‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html" />
 </p>
@@ -71,29 +69,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 ### 🧩 Frameworks & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,azure" />
-  <img src="https://skillicons.dev/icons?i=dynamics365,powerapps,powerautomate" />
-</p>
-
-### 🛠 Tools & Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,postman,docker,ubuntu,windows,macos" />
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mssql" />
-</p>
-
-## 🛠 Skills
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html" />
-</p>
-
-### 🧩 Frameworks & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" />
   <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white"/>
@@ -101,10 +76,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ### 🛠 Tools & Environments
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,azure" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,postman,docker" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
