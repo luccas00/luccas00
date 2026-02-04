@@ -2,17 +2,26 @@
 ## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
 Building scalable business solutions using .NET, Azure and modern web technologies.
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
-<div style="display:flex; align-items:center; gap:12px;">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-         alt="Microsoft Certified Associate Badge"
-         width="70"/>
-  </a>
 
-  <strong>
-    Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
-  </strong>
-</div>
+
+<table align="center">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 12px;">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
+        <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+             alt="Microsoft Certified Associate Badge"
+             width="64" />
+      </a>
+    </td>
+    <td style="vertical-align: middle;">
+      <div>
+        <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
+        Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 🔭 Committed to continuously improving my development skills and problem-solving abilities, aiming to deliver efficient technological solutions.
 
