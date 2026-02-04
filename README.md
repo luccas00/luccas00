@@ -1,27 +1,44 @@
-<h1>Hello there, I'm Luccas 👋</h1>
+#Hello there, I'm Luccas 👋
+##👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer
 
-<h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td style="vertical-align: middle; padding-right: 12px;">
+<table align="center" role="presentation" cellpadding="0" cellspacing="0"
+       style="border:none !important; border-collapse:collapse !important;">
+  <tr style="border:none !important;">
+    <td style="border:none !important; vertical-align:middle; padding:0 12px 0 0;">
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
         <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-             width="64"/>
+             width="64" alt="Microsoft Certified Associate Badge" />
       </a>
     </td>
-    <td style="vertical-align: middle;">
+    <td style="border:none !important; vertical-align:middle; padding:0;">
       <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
       Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
+    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+         width="64" alt="Microsoft Certified Associate Badge" align="middle" />
+  </a>
+  &nbsp;&nbsp;
+  <span>
+    <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
+    Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
+  </span>
+</p>
+
+<div align="center">
+
 ### Tech Stack
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
 
 Building scalable business solutions using .NET, Azure and modern web technologies.
 
+</div>
+
+---
 
 🔭 Committed to continuously improving my development skills and problem-solving abilities, aiming to deliver efficient technological solutions.
 
