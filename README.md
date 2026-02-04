@@ -1,6 +1,7 @@
 #Hello there, I'm Luccas 👋
 ##👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer
 
+
 <p align="center">
   <span style="display:inline-block; vertical-align:middle;">
     <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
