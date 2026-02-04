@@ -1,31 +1,4 @@
 # Hello there, I'm Luccas :wave:
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hello%20there%2C%20I'm%20Luccas%20%F0%9F%91%8B;Power%20Platform%20%26%20Dynamics%20365%20Developer;Senior%20Developer%20%7C%20Business%20Solutions%20Specialist;Building%20Scalable%20Enterprise%20Solutions;Always%20Learning"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hello%20there%2C%20I'm%20Luccas%20%F0%9F%91%8B;Power%20Platform%20%26%20Dynamics%20365%20Developer;Senior%20Developer%20%7C%20PL-200%20Certified;Information%20Systems%20Student;Turning%20Ideas%20Into%20Solutions"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=32&pause=1000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hello%20there%2C%20I'm%20Luccas%20%F0%9F%91%8B;Power%20Platform%20%26%20Dynamics%20365%20Developer;Senior%20Developer%20%7C%20PL-200%20Certified;Information%20Systems%20Student;Turning%20Ideas%20Into%20Solutions"
-  />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+there,+I'm+Luccas+%F0%9F%91%8B;Power+Platform+%26+Dynamics+365+Developer;Senior+Developer+|+PL-200+Certified;Information+Systems+Student;Turning+Ideas+Into+Solutions)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there%2C%20I'm%20Luccas%20%F0%9F%91%8B;Power%20Platform%20%26%20Dynamics%20365%20Developer;Senior%20Developer%20%7C%20PL-200%20Certified;Information%20Systems%20Student;Turning%20Ideas%20Into%20Solutions&font=Fira%20Code&center=true&width=520&height=45">
-  </a>
-</p>
-
-
 ## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
 
 Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant [PL-200] | Business Solutions Expert
@@ -37,6 +10,12 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 💻 At Smart Consulting, I contribute to improving the efficiency and quality of our clients' projects. I have experience in adapting and configuring Dynamics 365 business applications, with a focus on Project Operations (project and finance operations), Customer Service (customer support), and Dynamics 365 Sales.
 
 🏫 Pursuing a Bachelor's degree in Information Systems at UFOP (Federal University of Ouro Preto)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20there%2C%20I'm%20Luccas%20%F0%9F%91%8B;Power%20Platform%20%26%20Dynamics%20365%20Developer;Turning%20Ideas%20Into%20Solutions;Always%20Learning&font=Fira%20Code&center=true&width=520&height=45">
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
