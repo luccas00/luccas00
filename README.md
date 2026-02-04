@@ -30,15 +30,10 @@
 </p>
 
 <div align="center">
-
-### Tech Stack
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
-
 Building scalable business solutions using .NET, Azure and modern web technologies.
-
 </div>
 
----
 
 🔭 Committed to continuously improving my development skills and problem-solving abilities, aiming to deliver efficient technological solutions.
 
