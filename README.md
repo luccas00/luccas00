@@ -24,12 +24,12 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/luccas00">
-    <img height="180em" alt="Stats"
-         src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&hide_border=true&mode=weekly"/>
-  </a>
-</p>
+<div align="center">
+	
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccas00&theme=github_dark"/>
+
+</div>
 
 
 ## 🛠 Skills
