@@ -1,5 +1,18 @@
 # Hello there, I'm Luccas :wave:
 ## 👨🏼‍💻🎓 I'm a Power Platform & Dynamics 365 Developer!!
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
+    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" 
+         alt="Microsoft Certified Associate Badge" 
+         width="120"/>
+  </a>
+</p>
+
+### About Me
+Senior Developer specialized in Power Platform & Dynamics 365, building scalable business solutions using .NET, Azure and modern web technologies.
+
+### Tech Stack
+Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
 
 Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power Platform Functional Consultant [PL-200] | Business Solutions Expert
 
@@ -34,6 +47,7 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccas00&theme=github_dark"/>
 
 </div>
+
 
 ## 🛠 Skills
 
