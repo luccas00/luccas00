@@ -31,6 +31,7 @@
 
 <div align="center">
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
+	
 Building scalable business solutions using .NET, Azure and modern web technologies.
 </div>
 
