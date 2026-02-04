@@ -63,7 +63,10 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ### I have experience
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html,dotnet,spring,nodejs,azure,vscode,visualstudio,idea,git,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html,dotnet,spring,nodejs,azure" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,postman,docker" />
 </p>
 
 ### I'm familiar with
