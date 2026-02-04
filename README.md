@@ -40,7 +40,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ### I have experience
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,css,html,git,azure" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,c,cs,java,js,css,html,git,azure,dotnet,spring,nodejs" alt="Skills" />
 </p>
 
 
@@ -54,12 +54,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Azure&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </p>
 
