@@ -34,9 +34,14 @@ src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=lucc
 <img height="180em"
 src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=20&theme=tokyonight"/>
 
+<img
+src="https://streak-stats.demolab.com?user=luccas00&theme=tokyonight"/>
+
 <img src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&mode=weekly"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccas00&theme=github_dark"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccas00&theme=github_dark"/>
 
 </div>
 
