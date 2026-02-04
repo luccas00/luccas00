@@ -4,6 +4,7 @@ Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server �
 
 Building scalable business solutions using .NET, Azure and modern web technologies.
 
+<br/>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
@@ -17,7 +18,7 @@ Building scalable business solutions using .NET, Azure and modern web technologi
     </td>
   </tr>
 </table>
-
+<br/>
 
 
 ### Tech Stack
