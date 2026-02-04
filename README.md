@@ -1,4 +1,6 @@
+<h1>Hello there, I'm Luccas 👋</h1>
 
+<h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
@@ -7,7 +9,7 @@
   </a>
   &nbsp;&nbsp;
   <span>
-    <strong>Certified Power Platform Functional Consultant (PL-200) Senior Developer</strong><br/>
+    <strong>Certified Power Platform Functional Consultant (PL-200)</strong><br/>
     Senior Developer | Specialist in Power Platform &amp; Dynamics 365 | Business Solutions Expert
   </span>
 </p>
