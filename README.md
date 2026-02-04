@@ -65,6 +65,30 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 </br>
 
+## 🛠 Skills
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html" />
+</p>
+
+### 🧩 Frameworks & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,azure" />
+  <img src="https://skillicons.dev/icons?i=dynamics365,powerapps,powerautomate" />
+</p>
+
+### 🛠 Tools & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,postman,docker,ubuntu,windows,macos" />
+</p>
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mssql" />
+</p>
+
+
 ## :iphone: Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/" target="_blank">
@@ -92,39 +116,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br/>
 <br/>
-
-## 🛠 Skills
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,js,css,html" />
-</p>
-
-### 🧩 Frameworks & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" />
-  <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-</p>
-
-### 🛠 Tools & Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,azure" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-</p>
-
 
 ## 🚀 Featured Projects
 <p align="center">
