@@ -24,28 +24,25 @@ Senior Developer | Specialist in Power Platform & Dynamics 365 | Certified Power
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/luccas00">
+    <img height="180em" alt="Top Langs"
+         src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&hide_border=true&mode=weekly"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luccas00">
+    <img height="180em" alt="Stats"
+         src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&hide_border=true&mode=weekly"/>
+  </a>
+</p>
+
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats-luccas00s-projects.vercel.app/api?username=luccas00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=20&theme=tokyonight"/>
-
-<img
-src="https://streak-stats.demolab.com?user=luccas00&theme=tokyonight"/>
-
-<img src="[https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&mode=weekly](https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&mode=weekly)"/>
-
-<img src="https://streak-stats.demolab.com/?user=luccas00&theme=tokyonight&hide_border=true&mode=weekly"/>
-
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccas00&theme=github_dark"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/luccas00">
+    <img height="180em" alt="Top Langs"
+         src="https://github-readme-stats-luccas00s-projects.vercel.app/api/top-langs/?username=luccas00&layout=compact&langs_count=20&theme=tokyonight"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ## 🛠 Skills
