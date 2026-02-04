@@ -4,22 +4,20 @@ Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server �
 
 Building scalable business solutions using .NET, Azure and modern web technologies.
 
----
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr border="0">
-    <td border="0" style="border:0; vertical-align: middle; padding-right: 12px;">
+  <tr>
+    <td>
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-        <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-             width="64"/>
+        <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="64"/>
       </a>
     </td>
-    <td border="0" style="border:0; vertical-align: middle;">
+    <td>
       <strong>Senior Developer | Specialist in Power Platform &amp; Dynamics 365</strong><br/>
       Certified Power Platform Functional Consultant (PL-200) | Business Solutions Expert
     </td>
   </tr>
 </table>
+
 
 
 ### Tech Stack
