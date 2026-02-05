@@ -3,12 +3,6 @@
 <h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20Ideas%20Into%20Solutions;Creating%20Smart%20Solutions;Always%20Learning;Driven%20By%20Challenges&font=Fira%20Code&center=true&width=520&height=45">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
     <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
          width="64" alt="Microsoft Certified Associate Badge" align="middle" />
@@ -35,6 +29,12 @@ Building scalable business solutions using .NET, Azure and modern web technologi
 💻 At Smart Consulting, I contribute to improving the efficiency and quality of our clients' projects. I have experience in adapting and configuring Dynamics 365 business applications, with a focus on Project Operations (project and finance operations), Customer Service (customer support), and Dynamics 365 Sales.
 
 🏫 Pursuing a Bachelor's degree in Information Systems at UFOP (Federal University of Ouro Preto)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20Ideas%20Into%20Solutions;Creating%20Smart%20Solutions;Always%20Learning;Driven%20By%20Challenges&font=Fira%20Code&center=true&width=520&height=45">
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
