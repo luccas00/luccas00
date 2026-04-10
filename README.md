@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/luccas00/luccas00/main/profile-3d-contrib/logoAssociatedMicrosoft.svg?sanitize=true"
+       width="500"/>
+</p>
+
+<p align="center">
   <strong>Senior Developer | Business Solutions Expert</strong>
 </p>
 
