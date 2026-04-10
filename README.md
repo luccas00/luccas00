@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/logoAssociatedMicrosoft.png" style="max-width: 100%; height: auto;" alt="Certifications"/>
+  <img src="profile-3d-contrib/logoAssociatedMicrosoft.png" style="max-width: 100%; height: auto;" alt="Certifications"/>
 </p>
 
 <p align="center">
