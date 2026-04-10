@@ -3,10 +3,6 @@
 <h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
 
 <p align="center">
-  <img src="profile-3d-contrib/logoAssociatedMicrosoft.png" style="max-width: 100%; height: auto;" alt="Certifications"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/luccas00/luccas00/main/profile-3d-contrib/logoAssociatedMicrosoft.svg?sanitize=true"
        width="500"/>
 </p>
