@@ -50,6 +50,24 @@
 </table>
 
 <p align="center">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
+    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+         width="64"
+         align="middle"
+         alt="Microsoft Certified Associate Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <span align="left">
+    <strong>Certified Power Platform Developer</strong><br/>
+    <strong>Certified Power Platform Functional Consultant</strong>
+  </span>
+</p>
+
+<p align="center">
+  <strong>Senior Developer | Business Solutions Expert</strong>
+</p>
+
+<p align="center">
   <strong>Senior Developer | Business Solutions Expert</strong>
 </p>
 
