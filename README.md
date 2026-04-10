@@ -9,7 +9,8 @@
   </a>
   &nbsp;&nbsp;
   <span>
-    <strong>Certified Power Platform Functional Consultant</strong><br/>
+    <strong>Certified Power Platform Developer - PL-400</strong><br/>
+    <strong>Certified Power Platform Functional Consultant - PL-200</strong><br/>
     Senior Developer | Business Solutions Expert
   </span>
 </p>
