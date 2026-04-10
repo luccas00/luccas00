@@ -3,78 +3,12 @@
 <h2>👨🏼‍💻🎓 Power Platform & Dynamics 365 Developer</h2>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-         width="64" alt="Microsoft Certified Associate Badge" align="middle" />
-  </a>
-  &nbsp;&nbsp;
-  <span>
-    <strong>Certified Power Platform Developer</strong><br/>
-    <strong>Certified Power Platform Functional Consultant</strong><br/>
-    Senior Developer | Business Solutions Expert
-  </span>
-</p>
-
-
-<p align="center">
-  <span style="display: inline-flex; align-items: center; gap: 12px;">
-    <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-           width="64" alt="Microsoft Certified Associate Badge" />
-    </a>
-    <span style="text-align: left;">
-      <strong>Certified Power Platform Developer</strong><br/>
-      <strong>Certified Power Platform Functional Consultant</strong>
-    </span>
-  </span>
-</p>
-
-<p align="center">
   <img src="profile-3d-contrib/logoAssociatedMicrosoft.png" style="max-width: 100%; height: auto;" alt="Certifications"/>
 </p>
 
 <p align="center">
   <strong>Senior Developer | Business Solutions Expert</strong>
 </p>
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-        <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-             width="64" alt="Microsoft Certified Associate Badge" />
-      </a>
-    </td>
-    <td align="left">
-      <strong>Certified Power Platform Developer</strong><br/>
-      <strong>Certified Power Platform Functional Consultant</strong>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/">
-    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-         width="64"
-         align="middle"
-         alt="Microsoft Certified Associate Badge" />
-  </a>
-  &nbsp;&nbsp;
-  <span align="left">
-    <strong>Certified Power Platform Developer</strong><br/>
-    <strong>Certified Power Platform Functional Consultant</strong>
-  </span>
-</p>
-
-<p align="center">
-  <strong>Senior Developer | Business Solutions Expert</strong>
-</p>
-
-<p align="center">
-  <strong>Senior Developer | Business Solutions Expert</strong>
-</p>
-
 
 <div align="center">
 Power Platform • Dynamics 365 • C# • .NET • JavaScript • SQL Server • Azure
