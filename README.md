@@ -30,6 +30,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/logoAssociatedMicrosoft.png" style="max-width: 100%; height: auto;" alt="Certifications"/>
+</p>
+
+<p align="center">
   <strong>Senior Developer | Business Solutions Expert</strong>
 </p>
 
