@@ -22,7 +22,7 @@
   />
   &nbsp;&nbsp;
   <img
-    src="https://camo.githubusercontent.com/245ad98671256e48aef6bc6ce44476bd960990c549eb6fd098a330f00b64650e/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f6d656469612f6c6561726e2f63657274696669636174696f6e2f6261646765732f61692d627573696e6573732d70726f66657373696f6e616c2e7376673f6272616e63683d6d61696e"
+    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-business-professional.svg?branch=main"
     width="78"
     alt="AI Business Professional"
   />
