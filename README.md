@@ -93,8 +93,6 @@ My core experience includes **Dynamics 365 CE, Customer Service, Sales, Project 
 
 ## 🛠 Tech Stack
 
-### Microsoft Business Applications
-
 <p align="center">
   <img src="https://img.shields.io/badge/Dynamics%20365-0B53CE?style=for-the-badge&logo=dynamics365&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
