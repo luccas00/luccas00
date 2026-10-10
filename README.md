@@ -11,7 +11,6 @@
         alt="Microsoft Certified Expert"
       />
     </td>
-
     <td align="center">
       <strong>
         Power Platform Solution Architect Expert [PL-600]<br/>
@@ -21,7 +20,6 @@
         Agentic AI Business Solutions Architect Expert [AB-100]
       </strong>
     </td>
-
     <td align="center" width="130">
       <img
         src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
