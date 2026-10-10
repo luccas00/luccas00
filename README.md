@@ -129,11 +129,12 @@ My core experience includes **Dynamics 365 CE, Customer Service, Sales, Project 
   <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  <a href="https://learn.microsoft.com/en-us/users/luccascarneiro-1661/">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
   <a href="mailto:luccas.carneiro@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-
   <a href="https://youtube.com/@luccascarneiro365">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
