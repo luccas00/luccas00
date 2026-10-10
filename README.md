@@ -1,94 +1,44 @@
 <h1>Hello there, I'm Luccas 👋</h1>
 
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="130" style="border: none; padding: 0 20px;">
-      <img
-        src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"
-        width="100"
-        alt="Microsoft Certified Expert"
-      />
-    </td>
-
-    <td align="center" style="border: none; padding: 0 25px;">
-      <strong>
-        Power Platform Solution Architect Expert [PL-600]<br/>
-        Power Platform Developer Associate [PL-400]<br/>
-        Power Platform Functional Consultant Associate [PL-200]<br/>
-        Dynamics 365 Customer Service Functional Consultant [MB-230]<br/>
-        Agentic AI Business Solutions Architect Expert [AB-100]
-      </strong>
-    </td>
-
-    <td align="center" width="130" style="border: none; padding: 0 20px;">
-      <img
-        src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-        width="100"
-        alt="Microsoft Certified Associate"
-      />
-    </td>
-  </tr>
-</table>
-
-
+<h2>👨🏼‍💻 Senior Dynamics 365 & Power Platform Professional</h2>
 
 <p align="center">
   <img
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"
-    width="100"
+    width="78"
     alt="Microsoft Certified Expert"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <strong>
-    Power Platform Solution Architect Expert [PL-600]<br/>
-    Power Platform Developer Associate [PL-400]<br/>
-    Power Platform Functional Consultant Associate [PL-200]<br/>
-    Dynamics 365 Customer Service Functional Consultant [MB-230]<br/>
-    Agentic AI Business Solutions Architect Expert [AB-100]
-  </strong>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <img
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-    width="100"
+    width="78"
     alt="Microsoft Certified Associate"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"
+    width="78"
+    alt="Microsoft Certified Fundamentals"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-business-professional.svg?branch=main"
+    width="78"
+    alt="AI Business Professional"
   />
 </p>
 
-
-
-<h2>👨🏼‍💻 Senior Dynamics 365 & Power Platform Professional</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img
-        src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"
-        width="100"
-        alt="Microsoft Certified Expert"
-      />
-    </td>
-    <td align="center">
-      <strong>
-        Power Platform Solution Architect Expert [PL-600]<br/>
-        Power Platform Developer Associate [PL-400]<br/>
-        Power Platform Functional Consultant Associate [PL-200]<br/>
-        Dynamics 365 Customer Service Functional Consultant [MB-230]<br/>
-        Agentic AI Business Solutions Architect Expert [AB-100]
-      </strong>
-    </td>
-    <td align="center" width="130">
-      <img
-        src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-        width="100"
-        alt="Microsoft Certified Associate"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>
+    PL-600 • Power Platform Solution Architect Expert &nbsp;|&nbsp;
+    PL-400 • Power Platform Developer Associate &nbsp;|&nbsp;
+    PL-200 • Power Platform Functional Consultant Associate
+    <br/>
+    MB-230 • Dynamics 365 Customer Service Functional Consultant &nbsp;|&nbsp;
+    AB-100 • Agentic AI Business Solutions Architect Expert &nbsp;|&nbsp;
+    AZ-900 • Azure Fundamentals
+  </strong>
+</p>
 
 <br/>
 
