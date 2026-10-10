@@ -2,29 +2,37 @@
 
 <h2>👨🏼‍💻 Senior Dynamics 365 & Power Platform Professional</h2>
 
-<p align="center">
-  <img
-    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"
-    width="105"
-    alt="Microsoft Certified Expert"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img
+        src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"
+        width="100"
+        alt="Microsoft Certified Expert"
+      />
+    </td>
 
-  <strong>
-    Power Platform Solution Architect Expert [PL-600]<br/>
-    Power Platform Developer Associate [PL-400]<br/>
-    Power Platform Functional Consultant Associate [PL-200]<br/>
-    Dynamics 365 Customer Service Functional Consultant [MB-230]<br/>
-    Agentic AI Business Solutions Architect Expert [AB-100]
-  </strong>
+    <td align="center">
+      <strong>
+        Power Platform Solution Architect Expert [PL-600]<br/>
+        Power Platform Developer Associate [PL-400]<br/>
+        Power Platform Functional Consultant Associate [PL-200]<br/>
+        Dynamics 365 Customer Service Functional Consultant [MB-230]<br/>
+        Agentic AI Business Solutions Architect Expert [AB-100]
+      </strong>
+    </td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-    width="105"
-    alt="Microsoft Certified Associate"
-  />
-</p>
+    <td align="center" width="130">
+      <img
+        src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
+        width="100"
+        alt="Microsoft Certified Associate"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
   <strong>
@@ -53,8 +61,6 @@ My experience spans the full solution lifecycle, including requirements analysis
 My core experience includes **Dynamics 365 CE, Customer Service, Sales, Project Operations, Dataverse, Power Apps, Power Automate, Power Pages, Copilot Studio, C#/.NET plugins, JavaScript, REST APIs, Azure, Azure DevOps, and Power Platform CLI**.
 
 🎓 Pursuing a **B.Sc. in Information Systems** at the Federal University of Ouro Preto — UFOP.
-
-🌎 Based in Brazil and working with international teams.
 
 ---
 
