@@ -104,23 +104,33 @@ My core experience includes **Dynamics 365 CE, Customer Service, Sales, Project 
   <img src="https://img.shields.io/badge/Copilot%20Studio-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
-### Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs" />
 </p>
-
-### Cloud, DevOps & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,git,docker,postman,vscode,visualstudio,powershell" />
 </p>
-
-### Data
-
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:luccas.carneiro@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com/@luccascarneiro365">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -162,24 +172,6 @@ My core experience includes **Dynamics 365 CE, Customer Service, Sales, Project 
       width="900"
       src="https://github.com/luccas00/luccas00/blob/main/profile-3d-contrib/profile-night-green.svg"
     />
-  </a>
-</p>
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/luccas-carneiro-678689171/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:luccas.carneiro@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-  </a>
-
-  <a href="https://youtube.com/@luccascarneiro365">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
